@@ -1,0 +1,1 @@
+print "huinu kakue-to mne vtiraet"
